@@ -21,7 +21,7 @@ const starterNotes = [
   },
   {
     id: 3,
-    title: 'Materials for the studio',
+    title: 'Test MGR Materials for the studio',
     excerpt: 'Tracing paper, soft graphite, masking tape, and one very good playlist.',
     category: 'List',
     date: 'Sep 10, 10:05',
