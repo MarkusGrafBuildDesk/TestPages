@@ -10,3 +10,7 @@ npm run dev
 ```
 
 Create a production build with `npm run build`.
+
+## GitHub Pages
+
+Pushes to `main` deploy automatically through GitHub Actions. In the repository settings, set **Pages > Build and deployment > Source** to **GitHub Actions**.
